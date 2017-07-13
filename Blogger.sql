@@ -1,0 +1,2 @@
+CREATE DATABASE Blogger_DB;
+USE Blogger;
